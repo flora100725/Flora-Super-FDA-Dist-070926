@@ -47,3 +47,12 @@ https://ai.studio/apps/750d66cf-3d63-4f45-b681-3b66d6e9fef4
 https://ai.studio/apps/fe9360ce-26fb-4f15-ac6f-c2fc5eb9c491
 
 https://ai.studio/apps/a9c1b66e-41f5-4e1d-ba62-1d6288100446
+https://ai.studio/apps/e8677ed3-9752-4628-9790-3810eaa2354d
+
+https://ai.studio/apps/60622fa2-30d2-4b1f-a80a-a7991d56c55f
+
+https://ai.studio/apps/62b721ea-b35a-438d-9cd9-25731fbe290c
+
+https://ai.studio/apps/62b721ea-b35a-438d-9cd9-25731fbe290c
+
+https://ai.studio/apps/36589967-399b-49b4-a50b-f5a786d51130
